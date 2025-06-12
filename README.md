@@ -15,7 +15,14 @@ This project consists of an interactive web form designed to manage shipment rec
 - Add new shipment records
 - Fetch and update existing records using Shipment No.
 - Lightweight and fast with JPDB integration
-- 🖥Responsive design using Bootstrap
+- Responsive design using Bootstrap
+
+Technologies Used
+
+- HTML5
+- Bootstrap 3
+- JavaScript (jQuery)
+- JsonPowerDB API
 
 # Project Status
  Completed and uploaded
