@@ -1,0 +1,8 @@
+{
+    "name": "Shipment_managment_form",
+    "version": "1.0.0",
+    "keywords": ["util", "functional", "server", "client", "browser"],
+    "author": "HP",
+    "contributors": [],
+    "dependencies": {}
+}
